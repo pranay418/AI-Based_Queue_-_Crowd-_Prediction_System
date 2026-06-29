@@ -1,11 +1,5 @@
 # AI-Based Queue & Crowd Load Prediction System
 
-```
-Author(s): Pranay P. Somnathe
-Affiliation: Suryodaya College of Engineering and Technology
-Date: March 2026
-```
-
 ## Abstract
 This project presents an AI-Based Queue & Crowd Load Prediction System designed to monitor, analyze, and predict crowd density and queue lengths in real time. The system utilizes computer vision techniques to detect and count people from video feeds and applies machine learning models to forecast future crowd conditions. The objective is to improve crowd management, reduce waiting times, and enhance safety in public spaces such as railway stations, malls, and events. The methodology combines image processing, data analysis, and time-series forecasting. Results demonstrate that the system can effectively estimate crowd size and provide early warnings of overcrowding. This solution can be implemented in smart city infrastructure for efficient resource allocation and improved user experience.
 
